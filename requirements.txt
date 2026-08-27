@@ -1,0 +1,24 @@
+# Core LLM & Agent Framework
+langchain>=0.2.0
+langgraph>=0.1.0
+langchain-google-genai>=2.0.0
+google-generativeai>=0.8.0
+
+# Bioinformatics
+biopython>=1.81
+
+
+# Web UI
+streamlit>=1.30.0
+
+# Data & Analysis
+pandas>=2.0.0
+matplotlib>=3.8.0
+scipy>=1.12.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional: ViennaRNA (for enhanced secondary structure prediction)
+# viennarna
