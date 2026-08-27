@@ -1,0 +1,22 @@
+[
+  {"gene_symbol": "BRCA1", "organism": "Homo sapiens", "category": "Human Cancer Target", "expected_gc": 47.2},
+  {"gene_symbol": "TP53", "organism": "Homo sapiens", "category": "Human Cancer Target", "expected_gc": 52.3},
+  {"gene_symbol": "GAPDH", "organism": "Homo sapiens", "category": "Human Housekeeping", "expected_gc": 53.1},
+  {"gene_symbol": "EGFR", "organism": "Homo sapiens", "category": "Human Oncogene", "expected_gc": 44.5},
+  {"gene_symbol": "ACE2", "organism": "Homo sapiens", "category": "Human Receptor", "expected_gc": 41.8},
+  {"gene_symbol": "Trp53", "organism": "Mus musculus", "category": "Mouse Model", "expected_gc": 54.0},
+  {"gene_symbol": "Gapdh", "organism": "Mus musculus", "category": "Mouse Housekeeping", "expected_gc": 51.5},
+  {"gene_symbol": "Actb", "organism": "Mus musculus", "category": "Mouse Housekeeping", "expected_gc": 55.2},
+  {"gene_symbol": "Myc", "organism": "Mus musculus", "category": "Mouse Oncogene", "expected_gc": 56.4},
+  {"gene_symbol": "Sox2", "organism": "Mus musculus", "category": "Mouse Stem Cell Factor", "expected_gc": 58.1},
+  {"gene_symbol": "ACT2", "organism": "Arabidopsis thaliana", "category": "Plant Model", "expected_gc": 43.5},
+  {"gene_symbol": "TUB4", "organism": "Arabidopsis thaliana", "category": "Plant Model", "expected_gc": 45.1},
+  {"gene_symbol": "RBCS1A", "organism": "Arabidopsis thaliana", "category": "Plant Photosynthesis", "expected_gc": 46.8},
+  {"gene_symbol": "APX1", "organism": "Arabidopsis thaliana", "category": "Plant Stress Response", "expected_gc": 48.0},
+  {"gene_symbol": "CLV3", "organism": "Arabidopsis thaliana", "category": "Plant Development", "expected_gc": 42.9},
+  {"gene_symbol": "rrsA", "organism": "Escherichia coli", "category": "Bacterial 16S rRNA", "expected_gc": 54.8},
+  {"gene_symbol": "recA", "organism": "Escherichia coli", "category": "Bacterial Recombination", "expected_gc": 50.9},
+  {"gene_symbol": "gyrB", "organism": "Escherichia coli", "category": "Bacterial DNA Gyrase", "expected_gc": 51.2},
+  {"gene_symbol": "lacZ", "organism": "Escherichia coli", "category": "Bacterial Reporter", "expected_gc": 56.0},
+  {"gene_symbol": "rpoB", "organism": "Escherichia coli", "category": "Bacterial RNA Polymerase", "expected_gc": 52.4}
+]
